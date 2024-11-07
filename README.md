@@ -12,13 +12,18 @@ Key Insights:
 Analyzed the relationship between restaurant price range and customer ratings, revealing unexpected patterns.
 Identified top cuisines in major cities and compared regional preferences.
 Performed sentiment analysis on reviews to gain insights into customer experiences, identifying frequent words in positive and negative feedback.
+
+
 ![output](https://github.com/user-attachments/assets/159493d6-8d0d-4488-ba0e-8b9eded9c27e)
+
+
 ![output1](https://github.com/user-attachments/assets/2655c04a-1c66-4a30-865a-2aaeebf86a9a)
 
 What’s Included:
 Data Preprocessing: Cleaning, transforming, and exploring the dataset.
 Visualizations: Multiple charts showing trends, ratings distributions, and sentiments.
 Code: Python scripts and Jupyter notebooks  of steps taken during the analysis.
+
 ![output](https://github.com/user-attachments/assets/3336bb05-e6ef-4fef-9729-4970226d88f1)
 
 
